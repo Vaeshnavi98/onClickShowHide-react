@@ -1,0 +1,42 @@
+.main-div {
+  background-color: #fa7257;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.small-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+}
+.para-div {
+  background-color: #fddddb;
+  border-radius: 7px;
+  height: 200px;
+  width: 250px;
+  color: black;
+  text-align: center;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.button-deco {
+  color: #dd1264;
+  background-color: #ffffff;
+  border-radius: 7px;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 0px;
+}
+h1 {
+  color: #ffffff;
+}
